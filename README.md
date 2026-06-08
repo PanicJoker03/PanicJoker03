@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Codewars Badge](https://www.codewars.com/users/PanicJoker03/badges/large)](https://www.codewars.com/users/PanicJoker03)
+
 <!--
 **PanicJoker03/PanicJoker03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
