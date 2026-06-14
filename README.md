@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there !
 
 [![Codewars Badge](https://www.codewars.com/users/PanicJoker03/badges/large)](https://www.codewars.com/users/PanicJoker03)
 
