@@ -3,8 +3,8 @@
 [![Codewars Badge](https://www.codewars.com/users/PanicJoker03/badges/large)](https://www.codewars.com/users/PanicJoker03)
 
 - 🔭 I’m currently working on Debian
-- 📫 How to reach me: panicjoker03@outlook.com; 
-- ⚡ Fun fact: I can rewire realities on linux
+- 📫 How to reach me: luis.carlos.nunez.guerra@gmail.com; 
+- ⚡ Fun fact: I love pizza
 - 💬 Ask me about: ...my programming skills
 - 😄 Pronouns: He/Him
 <!--
