@@ -6,7 +6,6 @@
 - 📫 How to reach me: panicjoker03@outlook.com; 
 - ⚡ Fun fact: I can rewire realities on linux
 - 💬 Ask me about: ...my programming skills
-- 🌱 I’m currently learning: Master AI on Tecmilenio
 - 😄 Pronouns: He/Him
 <!--
 **PanicJoker03/PanicJoker03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
