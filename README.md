@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on linux
 - 📫 How to reach me: luis.carlos.nunez.guerra@gmail.com; 
-- ⚡ Fun fact: I love pizza
+- ⚡ Fun fact: I love THOR
 - 💬 Ask me about: ...my programming skills
 - 😄 Pronouns: He/Him
 <!--
