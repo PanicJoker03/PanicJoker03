@@ -2,7 +2,7 @@
 
 [![Codewars Badge](https://www.codewars.com/users/PanicJoker03/badges/large)](https://www.codewars.com/users/PanicJoker03)
 
-- 🔭 I’m currently working on the creed
+- 🔭 I’m currently working on terminal
 - 📫 How to reach me: panicjoker03@outlook.com; 
 - ⚡ Fun fact: I love my ROG god bless asus!
 - 💬 Ask me about: ...my programming skills
